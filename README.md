@@ -1,10 +1,18 @@
 
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C6FF&height=180&section=header&text=Suhail%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:111827,100:003B49&height=200&section=header&text=SUHAIL%20AHMED&fontSize=48&fontColor=00E5FF&animation=fadeIn&fontAlignY=45" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Node.js+%26+React+Developer;Backend+Development+Enthusiast;Exploring+Agentic+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Software+Developer;Node.js+%7C+React+Developer;Backend+%26+Full-Stack+Development;Exploring+Agentic+AI" />
+
+<br/>
+
+<a href="https://github.com/suhailahmad224">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/suhail-ahmed-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00A9FF" />
+</a>
 
 </div>
 
