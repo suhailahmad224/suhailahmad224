@@ -10,13 +10,24 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Suhail Ahmed**, a passionate Software Developer interested in building modern web applications and exploring new technologies.
+I am a **Software Developer** focused on designing and developing scalable, efficient, and user-centric web applications.
 
-- 💻 Skilled in JavaScript, Node.js and React
-- 🚀 Interested in Backend and Full-Stack Development
-- 🤖 Exploring Artificial Intelligence and Agentic AI
-- 🌱 Continuously learning and building practical projects
-- 🎯 Focused on improving my software development skills
+My primary expertise lies in **JavaScript, Node.js, React, and backend development**, with a strong interest in building robust server-side applications, RESTful APIs, and database-driven solutions.
+
+I enjoy solving engineering challenges, writing maintainable code, and transforming ideas into practical software solutions.
+
+**Technical Focus:**
+- Backend Development & REST API Design
+- Full-Stack Web Application Development
+- Database Integration & Data Management
+- Server-Side Programming with Node.js
+- AI Integration & Agentic AI Exploration
+
+I continuously work on strengthening my software engineering skills through hands-on projects, technical learning, and experimentation with modern development tools.
+
+**My Approach:** Clean Code · Problem Solving · Continuous Improvement · Scalable Solutions
+
+
 
 ---
 
@@ -71,20 +82,6 @@ Hi! I'm **Suhail Ahmed**, a passionate Software Developer interested in building
 </div>
 
 ---
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=suhailahmad224&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailahmad224&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
 
 ### ✨ Thanks for visiting my profile!
 
